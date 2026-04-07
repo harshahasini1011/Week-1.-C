@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+printf("25331A05C7\n");
 int a,b,sum;
 printf("enter two number:");
 scanf("%d%d",&a,&b);
